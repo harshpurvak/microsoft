@@ -25,6 +25,6 @@ A simple static landing page inspired by the Microsoft homepage. The project use
 - CSS3
 - Remix Icon CDN
 
-## Notes
+
 
 This project is for learning and practice purposes. Microsoft logos, images, and product names belong to Microsoft.
